@@ -30,3 +30,8 @@ https://gradle.org/install/#manually
 
 # その他
 - 詳細は各PJのREADME.mdを参照
+- Gradleのチュートリアルにて参照するURL
+  https://docs.gradle.org/current/samples/index.html#java
+- 後で読むリスト
+  - Gradleの特徴5つ
+    https://docs.gradle.org/current/userguide/what_is_gradle.html#five_things
