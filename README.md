@@ -1,10 +1,10 @@
 # インストール手順
 ## 1. homebrew
-```
-brew install gradle
+```bash
+$ brew install gradle
 ```
 
-- 上記コマンドで、ダウンロード+解答
+- 上記コマンドで、ダウンロード+解凍
 
 ログ。
 ```
